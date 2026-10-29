@@ -36,7 +36,7 @@ nav a {
   margin-right: 1.25rem;
   color: var(--accent);
   text-decoration: none;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 nav a:hover {
