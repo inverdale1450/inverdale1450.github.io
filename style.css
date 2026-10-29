@@ -113,4 +113,6 @@ section {
   nav a {
     margin: 0 0.75rem;
   }
+  .hero-text h2 { font-size: 1.5rem; }
+  .hero-text p { font-size: 1rem; }
 }
